@@ -93,7 +93,7 @@ export default function App() {
           <div className="brand">
             <div className="logo">RI</div>
             <div>
-              <div className="brand-title">ReIntelKY</div>
+              <div className="brand-title">REIntelKY</div>
               <div className="brand-subtitle">Real Estate Intelligence for Kentucky</div>
             </div>
           </div>
