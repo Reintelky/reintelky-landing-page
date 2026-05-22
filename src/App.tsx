@@ -93,7 +93,7 @@ export default function App() {
           <div className="brand">
             <div className="logo">REI</div>
             <div>
-              <div className="brand-title">REIntelky</div>
+              <div className="brand-title">REIntel</div>
               <div className="brand-subtitle">Real Estate Intelligence for Kentucky</div>
             </div>
           </div>
@@ -112,7 +112,7 @@ export default function App() {
             <div className="pill">Kentucky MVP launching soon</div>
             <h1>Find distressed real estate opportunities before the market catches up.</h1>
             <p>
-              REIntelky centralizes Kentucky master commissioner sales, public property records, title transfer activity, and local market trends into one searchable investor dashboard.
+              REIntel centralizes Kentucky master commissioner sales, public property records, title transfer activity, and local market trends into one searchable investor dashboard.
             </p>
             <div className="hero-actions">
               <a className="button" href="#early-access">Join the Waitlist →</a>
@@ -196,7 +196,7 @@ export default function App() {
           <div className="access-card">
             <div className="icon">📍</div>
             <h2>Get early access to the Kentucky launch.</h2>
-            <p>Join the early access list to see sample records, request counties, and get notified when the MVP is ready.</p>
+            <p>Join the waitlist to see sample records, request counties, and get notified when the MVP is ready.</p>
             <div className="form-row">
               <input placeholder="Email address" />
               <button className="button">Join Waitlist</button>
