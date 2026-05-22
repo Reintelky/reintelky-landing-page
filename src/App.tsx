@@ -91,9 +91,9 @@ export default function App() {
       <header className="header">
         <div className="header-inner">
           <div className="brand">
-            <div className="logo">RI</div>
+            <div className="logo">REI</div>
             <div>
-              <div className="brand-title">REIntelKY</div>
+              <div className="brand-title">REIntelky</div>
               <div className="brand-subtitle">Real Estate Intelligence for Kentucky</div>
             </div>
           </div>
@@ -112,10 +112,10 @@ export default function App() {
             <div className="pill">Kentucky MVP launching soon</div>
             <h1>Find distressed real estate opportunities before the market catches up.</h1>
             <p>
-              ReIntelKY centralizes Kentucky master commissioner sales, public property records, title transfer activity, and local market trends into one searchable investor dashboard.
+              REIntelky centralizes Kentucky master commissioner sales, public property records, title transfer activity, and local market trends into one searchable investor dashboard.
             </p>
             <div className="hero-actions">
-              <a className="button" href="#early-access">Join the Early Access List →</a>
+              <a className="button" href="#early-access">Join the Waitlist →</a>
               <a className="button secondary" href="#features">View Sample Dashboard</a>
             </div>
             <p className="small-note">Built for investors, agents, lenders, wholesalers, title companies, and asset managers.</p>
